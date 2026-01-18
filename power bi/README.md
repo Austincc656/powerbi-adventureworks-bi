@@ -25,3 +25,4 @@ from raw data preparation to interactive dashboard design.
 ✅ Phase 1 completed: Data Cleaning & Transformation (Power Query)  
 ⬜ Phase 2 in progress: Data Modeling  
 ⬜ Phase 3 planned: DAX & Dashboard Design
+
