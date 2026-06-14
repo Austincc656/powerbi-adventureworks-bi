@@ -61,3 +61,19 @@ from raw data preparation to interactive dashboard design.
 ⬜ Phase 2 in progress: Data Modeling  
 ⬜ Phase 3 planned: DAX & Dashboard Design
 
+## Project Screenshots
+
+### Business Problem
+![Business Problem](Screenshots/01_Business_Problem.png)
+
+### Power Query Editor
+![Power Query Editor](Screenshots/02_Power_Query_Editor.png)
+
+### Data Transformation
+![Data Transformation](Screenshots/03_Data_Transformation.png)
+
+### SKU Type Extraction
+![SKU Type Extraction](Screenshots/04_Custom_Transformation_SKU_Type.png)
+
+### Data Model
+![Data Model](Screenshots/05_Data_Model.png)
