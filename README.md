@@ -4,6 +4,13 @@ This repository documents an end-to-end Power BI Business Intelligence project
 using the AdventureWorks dataset. The project follows a real-world BI workflow,
 from raw data preparation to interactive dashboard design.
 
+## Business Problem
+AdventureWorks requires a Business Intelligence solution to monitor sales performance,
+product trends, regional performance, and key business KPIs. The objective is to
+transform raw transactional data into actionable insights that support data-driven
+decision making.
+
+
 ## Project Objectives
 - Transform raw CSV data into clean, analysis-ready tables
 - Build a relational data model for business analysis
